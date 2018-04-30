@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MiApp2</string>
+    <string name="telefono">Telefono</string>
+    <string name="email">Email</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="nombre">Nombre Completo</string>
+    <string name="fecha">Fecha de Nacimiento</string>
+    <string name="boton">Siguiente</string>
+    <string name="confirmar">Confirmar Datos</string>
+    <string name="editar">Editar Datos</string>
+</resources>
